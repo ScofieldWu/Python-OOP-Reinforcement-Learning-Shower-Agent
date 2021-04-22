@@ -17,5 +17,5 @@ Table of Content - Summary Report:
     - Struggle with the Environment
     - Struggle with the Tabular Method
     - Struggle with the Function Approximation Method
-6. Limitations
+6. Conclusion and Limitations
 7. References
